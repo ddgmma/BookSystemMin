@@ -33,3 +33,6 @@ bin/
 ### Vim ###
 *~
 *.un~
+
+### Java compiled classes ###
+*.class
